@@ -2,7 +2,7 @@
 <p>Class overview site.</p>
 <p>This is an experimental file to learn GitHub.</p>
 <p>See the table below for different website building options.</p>
-<p>YouTube videos - playlist <a href="https://youtu.be/vlh_zG78BGU?list=PLTIYlaro_uhuoZzyd4bhPw8DjQLJxcG_Y&t=58">here</a></p>
+<p>YouTube videos - playlist <a href="https://youtu.be/vlh_zG78BGU?list=PLTIYlaro_uhuoZzyd4bhPw8DjQLJxcG_Y&t=58">here</a>:</p>
   <table border="1" cellpadding="0" cellspacing="0" valign="top" title="IPT website options" summary="Repositories which can be cloned for web projects.">
     <tr>
       <td><p>Topic</p></td>
@@ -18,8 +18,9 @@
       <td><p><a href="https://bwattle.github.io/01-RawHTML/">https://bwattle.github.io/01-RawHTML/</a></p></td>
       <td><p><a href="https://github.com/bwattle/01-RawHTML">https://github.com/bwattle/01-RawHTML</a></p></td>
       <td><p><a href="http://techeducation.com.au/MM-Web/1st_HTML_Site/index.html">\MM-Web\1st_HTML_Site</a></p></td>
-      <td><p>Vid01</p>
-        <p>Vid02</p></td>
+      <td><p><a href="https://youtu.be/vlh_zG78BGU?list=PLTIYlaro_uhuoZzyd4bhPw8DjQLJxcG_Y&t=58">YTube</a></p>
+        <p>Vid01</p>
+      <p>Vid02</p></td>
     </tr>
     <tr>
       <td><p>No CSS</p>
@@ -29,8 +30,9 @@
       <td><p><a href="http://techeducation.com.au/MM-Web/W1-Basic/index.html">\MM-Web\W1-Basic</a></p>
         <p>and</p>
         <p><a href="http://techeducation.com.au/MM-Web/W2-Template/Index.html">\MM-Web\W2-Template</a></p></td>
-      <td><p>Vid03</p>
-        <p>Vid04</p></td>
+      <td><p><a href="https://youtu.be/vlh_zG78BGU?list=PLTIYlaro_uhuoZzyd4bhPw8DjQLJxcG_Y&t=58">YTube</a></p>
+        <p>Vid03</p>
+      <p>Vid04</p></td>
     </tr>
     <tr>
       <td><p>An old    CSS template</p></td>
