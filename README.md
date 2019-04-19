@@ -1,6 +1,6 @@
 # IPT19
 <p>Class overview site.</p>
-<p>This is an experimental file to learn GitHub.</p>
+<p>This is an experimental file to learn GitHub and web development.</p>
 <p>See the table below for different website building options.</p>
 <p>YouTube videos - playlist <a href="https://youtu.be/vlh_zG78BGU?list=PLTIYlaro_uhuoZzyd4bhPw8DjQLJxcG_Y&t=58">here</a>:</p>
   <table border="1" cellpadding="0" cellspacing="0" valign="top" title="IPT website options" summary="Repositories which can be cloned for web projects.">
