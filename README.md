@@ -3,13 +3,13 @@
 <p>This is an experimental file to learn GitHub and web development.</p>
 <p>See the table below for different website building options.</p>
 <p>YouTube videos - playlist <a href="https://youtu.be/vlh_zG78BGU?list=PLTIYlaro_uhuoZzyd4bhPw8DjQLJxcG_Y&t=58">here</a>:</p>
-<table width="730" border="1" cellpadding="0" cellspacing="0" title="" summary="" valign="top">
+<table width="681" border="1" cellpadding="0" cellspacing="0" title="" summary="" valign="top">
     <tr>
-      <td width="116"><p>Topic</p></td>
-      <td width="165"><p>Website</p></td>
-      <td width="180"><p>Repository</p></td>
+      <td width="110"><p>Topic</p></td>
+      <td width="170"><p>Website</p></td>
+      <td width="196"><p>Repository</p></td>
       <td width="134"><p>Example</p></td>
-      <td width="55"><p>Video</p></td>
+      <td width="108"><p>Video</p></td>
     </tr>
     <tr>
       <td><p>Notepad    HTML</p>
